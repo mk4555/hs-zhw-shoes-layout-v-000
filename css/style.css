@@ -2,6 +2,20 @@
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900); /* font-family: 'Elsie Swash Caps', cursive; */
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script); /* font-family: 'Clicker Script', cursive; */
 
+.col-1 {
+	width: 33.3%;
+}
+
+.col-2{
+	width: 66.6%;
+}
+
+.col-3{
+	width: 99.9%;
+}
+
+
+
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form { 
 	width:100%; /* IE */
