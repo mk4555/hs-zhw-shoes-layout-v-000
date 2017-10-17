@@ -3,15 +3,15 @@
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script); /* font-family: 'Clicker Script', cursive; */
 
 .col-1 {
-	width: 33.3%;
+	width: 31.3%;
 }
 
 .col-2{
-	width: 66.6%;
+	width: 64.4%;
 }
 
 .col-3{
-	width: 99.9%;
+	width: 96.6%;
 }
 * {
 	box-sizing: border-box;
