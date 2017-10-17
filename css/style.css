@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script); /* font-family: 'Clicker Script', cursive; */
 
 .col-1 {
-	width: 33.3%;
+	width: 31.3%;
 	float: left;
 }
 
@@ -132,6 +132,7 @@ iframe {
 .first {
 	margin-left: 0%;
 }
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
