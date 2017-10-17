@@ -13,7 +13,9 @@
 .col-3{
 	width: 99.9%;
 }
-
+* {
+	box-sizing: border-box;
+}
 
 
 /* scale all images, and media to accomodate responsive layout. */
