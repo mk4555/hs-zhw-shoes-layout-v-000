@@ -5,12 +5,15 @@
 .col-1 {
 	width: 32%;
 	float: left;
+	background-color: blue;
 }
 
 .col-2{
 	width: 64.2%;
 	margin: 0;
 	float: left;
+	background-color: red;
+
 }
 
 .col-3{
