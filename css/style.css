@@ -17,9 +17,7 @@
 	width: 99%;
 	float: left;
 }
-* {
-	box-sizing: border-box;
-}
+
 
 
 /* scale all images, and media to accomodate responsive layout. */
